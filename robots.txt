@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow:/essay/
+Allow: /tags/
+Allow: /about/
+Allow:/link/
+Allow:/fcircle/
+Allow:/music/
+Disallow: /js/
+Sitemap: https://blog.scfc.top/sitemap.xml
