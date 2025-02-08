@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const encodedDomainList = [
         'YmxvZy5zY2ZjLnRvcA', // 主站自身（blog.scfc.top）
         'Ki5zY2ZjLnRvcA',     // 对应 *.scfc.top
-//        'Ki5zY2ZjLnVzLmtn',   // 对应其他备用域名（如GitHub Pages）
+        'c2NmYy5wYWdlcy5kZXY=',   // 对应其他备用域名（如GitHub Pages）
     ];
 
     // Base64解码函数
@@ -94,9 +94,9 @@ document.addEventListener("DOMContentLoaded", function () {
         addInfoBanner('当前访问的是本地测试站点，可点击', mainDomain, '主站', '访问在线站点。');
     } else if (!isDomainInList(currentDomain, domainList)) {
         // 非授权域名：显示警告横幅+水印+跳转提示
-        addInfoBanner('当前域名非本站域名，可能是恶意镜像站，请点击', mainDomain, '主站', '正常访问。请举报此域名！');
+        addInfoBanner('当前域名非本站域名，疑似恶意镜像站，请点击', mainDomain, '主站', '正常访问。请举报此域名！');
         createWatermark(mainDomain);
-        const confirmMsg = "警告：您当前访问的可能是恶意镜像！是否立即跳转到正版站点？";
+        const confirmMsg = "警告：您当前访问的站点疑似恶意镜像！是否立即跳转到正版站点？";
         if (confirm(confirmMsg)) window.location.replace(`https://${mainDomain}`);
     } else if (currentDomain !== mainDomain) {
         // 授权镜像站：仅显示提示横幅
