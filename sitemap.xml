@@ -298,6 +298,20 @@
   </url>
   
   <url>
+    <loc>https://blog.scfc.top/tags/Tag-Plugins/</loc>
+    <lastmod>2025-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.scfc.top/tags/Hexo/</loc>
+    <lastmod>2025-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.scfc.top/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-02-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -319,28 +333,14 @@
   </url>
   
   <url>
-    <loc>https://blog.scfc.top/tags/%E7%A6%8F%E5%88%A9/</loc>
-    <lastmod>2025-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.scfc.top/tags/Tag-Plugins/</loc>
-    <lastmod>2025-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.scfc.top/tags/Hexo/</loc>
-    <lastmod>2025-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.scfc.top/tags/%E7%88%B1%E5%8F%91%E7%94%B5/</loc>
+    <lastmod>2025-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.scfc.top/tags/%E7%A6%8F%E5%88%A9/</loc>
     <lastmod>2025-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
