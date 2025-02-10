@@ -270,13 +270,6 @@
   </url>
   
   <url>
-    <loc>https://blog.scfc.top/tags/vlog/</loc>
-    <lastmod>2025-02-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.scfc.top/tags/%E4%BA%91%E9%A9%B0%E4%BA%92%E8%81%94/</loc>
     <lastmod>2025-02-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -292,6 +285,13 @@
   
   <url>
     <loc>https://blog.scfc.top/tags/%E5%AE%9D%E5%A1%94/</loc>
+    <lastmod>2025-02-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.scfc.top/tags/vlog/</loc>
     <lastmod>2025-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
