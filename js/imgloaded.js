@@ -59,16 +59,16 @@
   
     const ldconfig = {
       light: {
-        smallSrc: 'https://api.scfc.top/api/img/', //浅色模式 小图链接 尽可能配置小于100k的图片 
-        largeSrc: 'https://api.scfc.top/api/img/', //浅色模式 大图链接 最终显示的图片
-        mobileSmallSrc: 'https://api.hn/acg.php?zd=mobile', //手机端浅色小图链接 尽可能配置小于100k的图片
-        mobileLargeSrc: 'https://api.hn/acg.php?zd=mobile', //手机端浅色大图链接 最终显示的图片
+        smallSrc: 'https://cdn.scfc.top/img/light_pc_s.png', //浅色模式 小图链接 尽可能配置小于100k的图片 
+        largeSrc: 'https://cdn.scfc.top/img/light_pc.png', //浅色模式 大图链接 最终显示的图片
+        mobileSmallSrc: 'https://cdn.scfc.top/img/light_m_S.png', //手机端浅色小图链接 尽可能配置小于100k的图片
+        mobileLargeSrc: 'https://cdn.scfc.top/img/light_m.png', //手机端浅色大图链接 最终显示的图片
         enableRoutes: ['/'],
         },
       dark: {
-        smallSrc: 'https://api.scfc.top/api/img/', //深色模式 小图链接 尽可能配置小于100k的图片 
-        largeSrc: 'https://api.scfc.top/api/img/', //深色模式 大图链接 最终显示的图片
-        mobileSmallSrc: 'https://api.hn/acg.php?zd=mobile', //手机端深色模式小图链接 尽可能配置小于100k的图片
+        smallSrc: 'https://cdn.scfc.top/img/dark_pc_s.png', //深色模式 小图链接 尽可能配置小于100k的图片 
+        largeSrc: 'https://cdn.scfc.top/img/dark_pc.png', //深色模式 大图链接 最终显示的图片
+        mobileSmallSrc: 'https://cdn.scfc.top/img/dark_m_s.png', //手机端深色模式小图链接 尽可能配置小于100k的图片
         mobileLargeSrc: 'https://api.hn/acg.php?zd=mobile', //手机端深色大图链接 最终显示的图片
         enableRoutes: ['/'],
         },
