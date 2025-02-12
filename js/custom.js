@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const month = `${myDate.getMonth() + 1}`.padStart(2, '0');
         const day = `${myDate.getDate()}`.padStart(2, '0');
         const formattedDate = `${month}${day}`;
-        const historyDataUrl = `https://api.nsmao.net/api/history/query?key=你的key`; //申请：https://api.nsmao.net
+        const historyDataUrl = `https://api.nsmao.net/api/history/query?key=XNgW5Ina8baGfm05o9s8JWL0HJ`; //申请：https://api.nsmao.net
    
         try {
             const response = await fetch(historyDataUrl);
