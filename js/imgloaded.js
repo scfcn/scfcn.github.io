@@ -59,17 +59,17 @@
   
     const ldconfig = {
       light: {
-        smallSrc: 'https://cdn.scfc.top/img/light_pc_s.png', //浅色模式 小图链接 尽可能配置小于100k的图片 
-        largeSrc: 'https://cdn.scfc.top/img/light_pc.png', //浅色模式 大图链接 最终显示的图片
-        mobileSmallSrc: 'https://cdn.scfc.top/img/light_m_S.png', //手机端浅色小图链接 尽可能配置小于100k的图片
-        mobileLargeSrc: 'https://cdn.scfc.top/img/light_m.png', //手机端浅色大图链接 最终显示的图片
+        smallSrc: 'https://imgse.koxiuqiu.cc/imgse/u/2025/02/12/67ac83fd933c8.png', //浅色模式 小图链接 尽可能配置小于100k的图片 
+        largeSrc: 'https://imgse.koxiuqiu.cc/imgse/u/2025/02/12/67ac8404b2109.png', //浅色模式 大图链接 最终显示的图片
+        mobileSmallSrc: 'https://imgse.koxiuqiu.cc/imgse/u/2025/02/12/67ac83fb90cbb.png', //手机端浅色小图链接 尽可能配置小于100k的图片
+        mobileLargeSrc: 'https://imgse.koxiuqiu.cc/imgse/u/2025/02/12/67ac840bdc4f4.png', //手机端浅色大图链接 最终显示的图片
         enableRoutes: ['/'],
         },
       dark: {
-        smallSrc: 'https://cdn.scfc.top/img/dark_pc_s.png', //深色模式 小图链接 尽可能配置小于100k的图片 
-        largeSrc: 'https://cdn.scfc.top/img/dark_pc.png', //深色模式 大图链接 最终显示的图片
-        mobileSmallSrc: 'https://cdn.scfc.top/img/dark_m_s.png', //手机端深色模式小图链接 尽可能配置小于100k的图片
-        mobileLargeSrc: 'https://api.hn/acg.php?zd=mobile', //手机端深色大图链接 最终显示的图片
+        smallSrc: 'https://imgse.koxiuqiu.cc/imgse/u/2025/02/12/67ac83fc9e3cd.png', //深色模式 小图链接 尽可能配置小于100k的图片 
+        largeSrc: 'https://imgse.koxiuqiu.cc/imgse/u/2025/02/12/67ac84133d153.png', //深色模式 大图链接 最终显示的图片
+        mobileSmallSrc: 'https://imgse.koxiuqiu.cc/imgse/u/2025/02/12/67ac83fe7a890.png', //手机端深色模式小图链接 尽可能配置小于100k的图片
+        mobileLargeSrc: 'https://imgse.koxiuqiu.cc/imgse/u/2025/02/12/67ac840d2a181.png', //手机端深色大图链接 最终显示的图片
         enableRoutes: ['/'],
         },
       };
