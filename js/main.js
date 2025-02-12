@@ -1769,7 +1769,6 @@ const setCategoryBarActive = () => {
       GLOBAL_CONFIG.runtime && addRuntime();
       addLastPushDate();
       toggleCardCategory();
-      setCategoryBarActive()      // 自己加的，用于切换类别栏目
     }
 
     GLOBAL_CONFIG.diytitle && changeDocumentTitle();
