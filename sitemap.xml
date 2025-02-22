@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://blog.scfc.top/friends/index.html</loc>
+    <loc>https://blog.scfc.top/link/index.html</loc>
     
     <lastmod>2025-02-22</lastmod>
     
@@ -29,7 +29,16 @@
   </url>
   
   <url>
-    <loc>https://blog.scfc.top/link/index.html</loc>
+    <loc>https://blog.scfc.top/addlink/index.html</loc>
+    
+    <lastmod>2025-02-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.scfc.top/friends/index.html</loc>
     
     <lastmod>2025-02-22</lastmod>
     
@@ -281,13 +290,6 @@
 
   
   <url>
-    <loc>https://blog.scfc.top/tags/%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2025-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.scfc.top/tags/%E4%BA%91%E9%A9%B0%E4%BA%92%E8%81%94/</loc>
     <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -303,6 +305,13 @@
   
   <url>
     <loc>https://blog.scfc.top/tags/%E5%AE%9D%E5%A1%94/</loc>
+    <lastmod>2025-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.scfc.top/tags/%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -330,6 +339,13 @@
   </url>
   
   <url>
+    <loc>https://blog.scfc.top/tags/%E5%85%AC%E5%91%8A/</loc>
+    <lastmod>2025-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.scfc.top/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -338,13 +354,6 @@
   
   <url>
     <loc>https://blog.scfc.top/tags/%E6%BA%90%E7%A0%81/</loc>
-    <lastmod>2025-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.scfc.top/tags/%E5%85%AC%E5%91%8A/</loc>
     <lastmod>2025-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
