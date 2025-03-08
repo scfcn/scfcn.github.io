@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const config = {
         mainDomain: "scfc.top",
         logApi: "https://api.scfc.top/report.php", // PHP 接口地址
-        allowList: ["localhost", "*.scfc.top"] // 添加了通配符白名单
+        allowList: ["localhost", "cname.scfc.top", "www.scfc.top", "blog.scfc.top"] // 添加了通配符白名单
     };
 
     const currentDomain = window.location.hostname.toLowerCase();
@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
         navigator.sendBeacon(config.logApi, JSON.stringify(reportData));
 
         // 构造跳转 URL，附带来源域名和路径作为查询参数
-        const redirectUrl = `https://${config.mainDomain}/?fromDomain=${encodeURIComponent(currentDomain)}&fromPath=${encodeURIComponent(currentPath + currentSearch)}`;
+        const redirectUrl = `https://scfc.top/`;
         window.location.replace(redirectUrl);
     }
 });
