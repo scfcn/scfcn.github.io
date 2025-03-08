@@ -299,28 +299,7 @@
 
   
   <url>
-    <loc>https://scfc.top/tags/vlog/</loc>
-    <lastmod>2025-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://scfc.top/tags/%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2025-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://scfc.top/tags/Tag-Plugins/</loc>
-    <lastmod>2025-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://scfc.top/tags/Hexo/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -348,6 +327,34 @@
   </url>
   
   <url>
+    <loc>https://scfc.top/tags/vlog/</loc>
+    <lastmod>2025-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://scfc.top/tags/Tag-Plugins/</loc>
+    <lastmod>2025-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://scfc.top/tags/Hexo/</loc>
+    <lastmod>2025-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://scfc.top/tags/%E5%85%AC%E5%91%8A/</loc>
+    <lastmod>2025-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://scfc.top/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -356,13 +363,6 @@
   
   <url>
     <loc>https://scfc.top/tags/%E6%BA%90%E7%A0%81/</loc>
-    <lastmod>2025-03-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://scfc.top/tags/%E6%98%A5%E6%99%9A/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -404,7 +404,7 @@
   </url>
   
   <url>
-    <loc>https://scfc.top/tags/%E5%85%AC%E5%91%8A/</loc>
+    <loc>https://scfc.top/tags/%E6%98%A5%E6%99%9A/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
