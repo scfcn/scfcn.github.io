@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SCFCの博客</title>
-  <icon>https://blog.scfc.top/favicon.png</icon>
+  <icon>https://scfc.top/favicon.png</icon>
   <subtitle>可惜...屠龙少年终成恶龙</subtitle>
-  <link href="https://blog.scfc.top/rss.xml" rel="self"/>
+  <link href="https://scfc.top/rss.xml" rel="self"/>
   
-  <link href="https://blog.scfc.top/"/>
+  <link href="https://scfc.top/"/>
   <updated>2025-02-23T08:18:07.599Z</updated>
-  <id>https://blog.scfc.top/</id>
+  <id>https://scfc.top/</id>
   
   <author>
     <name>SCFC</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>魔改笔记之一</title>
-    <link href="https://blog.scfc.top/posts/18096dc2.html"/>
-    <id>https://blog.scfc.top/posts/18096dc2.html</id>
+    <link href="https://scfc.top/posts/18096dc2.html"/>
+    <id>https://scfc.top/posts/18096dc2.html</id>
     <published>2025-02-22T13:35:00.000Z</published>
     <updated>2025-02-23T08:18:07.599Z</updated>
     
@@ -34,18 +34,18 @@
     
     
     
-    <category term="教程" scheme="https://blog.scfc.top/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://scfc.top/tags/%E6%95%99%E7%A8%8B/"/>
     
-    <category term="魔改" scheme="https://blog.scfc.top/tags/%E9%AD%94%E6%94%B9/"/>
+    <category term="魔改" scheme="https://scfc.top/tags/%E9%AD%94%E6%94%B9/"/>
     
-    <category term="技术" scheme="https://blog.scfc.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://scfc.top/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
   <entry>
     <title>开学通知</title>
-    <link href="https://blog.scfc.top/posts/d37d7bf0.html"/>
-    <id>https://blog.scfc.top/posts/d37d7bf0.html</id>
+    <link href="https://scfc.top/posts/d37d7bf0.html"/>
+    <id>https://scfc.top/posts/d37d7bf0.html</id>
     <published>2025-02-12T12:50:54.000Z</published>
     <updated>2025-02-12T12:56:37.111Z</updated>
     
@@ -60,14 +60,14 @@
     
     
     
-    <category term="公告" scheme="https://blog.scfc.top/tags/%E5%85%AC%E5%91%8A/"/>
+    <category term="公告" scheme="https://scfc.top/tags/%E5%85%AC%E5%91%8A/"/>
     
   </entry>
   
   <entry>
     <title>福利再次加码!!!</title>
-    <link href="https://blog.scfc.top/posts/a931e1e4.html"/>
-    <id>https://blog.scfc.top/posts/a931e1e4.html</id>
+    <link href="https://scfc.top/posts/a931e1e4.html"/>
+    <id>https://scfc.top/posts/a931e1e4.html</id>
     <published>2025-01-28T07:45:15.000Z</published>
     <updated>2025-02-10T16:09:10.185Z</updated>
     
@@ -82,14 +82,14 @@
     
     
     
-    <category term="福利" scheme="https://blog.scfc.top/tags/%E7%A6%8F%E5%88%A9/"/>
+    <category term="福利" scheme="https://scfc.top/tags/%E7%A6%8F%E5%88%A9/"/>
     
   </entry>
   
   <entry>
     <title>福利加码!</title>
-    <link href="https://blog.scfc.top/posts/74bd4bda.html"/>
-    <id>https://blog.scfc.top/posts/74bd4bda.html</id>
+    <link href="https://scfc.top/posts/74bd4bda.html"/>
+    <id>https://scfc.top/posts/74bd4bda.html</id>
     <published>2025-01-27T12:44:07.000Z</published>
     <updated>2025-02-10T16:08:44.346Z</updated>
     
@@ -104,14 +104,14 @@
     
     
     
-    <category term="福利" scheme="https://blog.scfc.top/tags/%E7%A6%8F%E5%88%A9/"/>
+    <category term="福利" scheme="https://scfc.top/tags/%E7%A6%8F%E5%88%A9/"/>
     
   </entry>
   
   <entry>
     <title>云驰互联服务器及宝塔安装教程</title>
-    <link href="https://blog.scfc.top/posts/88e9940c.html"/>
-    <id>https://blog.scfc.top/posts/88e9940c.html</id>
+    <link href="https://scfc.top/posts/88e9940c.html"/>
+    <id>https://scfc.top/posts/88e9940c.html</id>
     <published>2025-01-26T15:06:30.000Z</published>
     <updated>2025-02-10T20:07:22.231Z</updated>
     
@@ -126,18 +126,18 @@
     
     
     
-    <category term="云驰互联" scheme="https://blog.scfc.top/tags/%E4%BA%91%E9%A9%B0%E4%BA%92%E8%81%94/"/>
+    <category term="云驰互联" scheme="https://scfc.top/tags/%E4%BA%91%E9%A9%B0%E4%BA%92%E8%81%94/"/>
     
-    <category term="服务器" scheme="https://blog.scfc.top/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="服务器" scheme="https://scfc.top/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
-    <category term="宝塔" scheme="https://blog.scfc.top/tags/%E5%AE%9D%E5%A1%94/"/>
+    <category term="宝塔" scheme="https://scfc.top/tags/%E5%AE%9D%E5%A1%94/"/>
     
   </entry>
   
   <entry>
     <title>爱发电入驻</title>
-    <link href="https://blog.scfc.top/posts/d72de3fb.html"/>
-    <id>https://blog.scfc.top/posts/d72de3fb.html</id>
+    <link href="https://scfc.top/posts/d72de3fb.html"/>
+    <id>https://scfc.top/posts/d72de3fb.html</id>
     <published>2025-01-21T09:11:24.000Z</published>
     <updated>2025-01-27T17:29:26.702Z</updated>
     
@@ -152,14 +152,14 @@
     
     
     
-    <category term="爱发电" scheme="https://blog.scfc.top/tags/%E7%88%B1%E5%8F%91%E7%94%B5/"/>
+    <category term="爱发电" scheme="https://scfc.top/tags/%E7%88%B1%E5%8F%91%E7%94%B5/"/>
     
   </entry>
   
   <entry>
     <title>南禅寺一日游(下)</title>
-    <link href="https://blog.scfc.top/posts/b839680.html"/>
-    <id>https://blog.scfc.top/posts/b839680.html</id>
+    <link href="https://scfc.top/posts/b839680.html"/>
+    <id>https://scfc.top/posts/b839680.html</id>
     <published>2025-01-19T00:05:58.000Z</published>
     <updated>2025-02-10T16:09:33.327Z</updated>
     
@@ -174,14 +174,14 @@
     
     
     
-    <category term="vlog" scheme="https://blog.scfc.top/tags/vlog/"/>
+    <category term="vlog" scheme="https://scfc.top/tags/vlog/"/>
     
   </entry>
   
   <entry>
     <title>南禅寺一日游(上)</title>
-    <link href="https://blog.scfc.top/posts/1298a7c1.html"/>
-    <id>https://blog.scfc.top/posts/1298a7c1.html</id>
+    <link href="https://scfc.top/posts/1298a7c1.html"/>
+    <id>https://scfc.top/posts/1298a7c1.html</id>
     <published>2025-01-18T12:06:44.000Z</published>
     <updated>2025-02-10T16:09:28.670Z</updated>
     
@@ -196,18 +196,18 @@
     
     
     
-    <category term="vlog" scheme="https://blog.scfc.top/tags/vlog/"/>
+    <category term="vlog" scheme="https://scfc.top/tags/vlog/"/>
     
   </entry>
   
   <entry>
     <title>送台服务器</title>
-    <link href="https://blog.scfc.top/posts/ae230a75.html"/>
-    <id>https://blog.scfc.top/posts/ae230a75.html</id>
+    <link href="https://scfc.top/posts/ae230a75.html"/>
+    <id>https://scfc.top/posts/ae230a75.html</id>
     <published>2025-01-16T14:56:16.000Z</published>
     <updated>2025-02-09T05:37:10.700Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="送服务器"><a href="#送服务器" class="headerlink" title="送服务器"></a>送服务器</h1><h2 id="土云服务器-香港-一个月-2025-02-16-09-26到期"><a href="#土云服务器-香港-一个月-2025-02-16-09-26到期" class="headerlink" title="土云服务器 香港 一个月 2025-02-16 09:26到期"></a>土云服务器 香港 一个月 2025-02-16 09:26到期</h2><h3 id="可以注册土云https-cloud-soilcloud-cn-aff-UUVNKKDD-然后实名我转移过去或者联系我QQ2907713872-或者-105-64-115-x63-x66-99-x2e-x74-111-x70-或微信scfccn-建议土云-可以自己改信息、续费"><a href="#可以注册土云https-cloud-soilcloud-cn-aff-UUVNKKDD-然后实名我转移过去或者联系我QQ2907713872-或者-105-64-115-x63-x66-99-x2e-x74-111-x70-或微信scfccn-建议土云-可以自己改信息、续费" class="headerlink" title="可以注册土云https://cloud.soilcloud.cn/aff/UUVNKKDD ,然后实名我转移过去或者联系我QQ2907713872 或者&#105;&#64;&#115;&#x63;&#x66;&#99;&#x2e;&#x74;&#111;&#x70;或微信scfccn.建议土云,可以自己改信息、续费"></a>可以注册土云<a href="https://cloud.soilcloud.cn/aff/UUVNKKDD">https://cloud.soilcloud.cn/aff/UUVNKKDD</a> ,然后实名我转移过去或者联系我QQ2907713872 或者<a href="mailto:&#105;&#64;&#115;&#x63;&#x66;&#99;&#x2e;&#x74;&#111;&#x70;">&#105;&#64;&#115;&#x63;&#x66;&#99;&#x2e;&#x74;&#111;&#x70;</a>或微信scfccn.建议土云,可以自己改信息、续费</h3><h3 id="活动以抽奖形式进行，活动时间：2025年01月16日-2025年01月20日，1月20日我会公布结果-会在评论区通知并通过预留邮箱等联系，请确保有联系方式可用"><a href="#活动以抽奖形式进行，活动时间：2025年01月16日-2025年01月20日，1月20日我会公布结果-会在评论区通知并通过预留邮箱等联系，请确保有联系方式可用" class="headerlink" title="活动以抽奖形式进行，活动时间：2025年01月16日-2025年01月20日，1月20日我会公布结果,会在评论区通知并通过预留邮箱等联系，请确保有联系方式可用"></a>活动以抽奖形式进行，活动时间：2025年01月16日-2025年01月20日，1月20日我会公布结果,会在评论区通知并通过预留邮箱等联系，请确保有联系方式可用</h3><h2 id="配置如下"><a href="#配置如下" class="headerlink" title="配置如下"></a>配置如下</h2><p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://imgse.koxiuqiu.cc/imgse/u/2025/02/09/67a83eac83580.png"></p><h2 id="续费9-9-月"><a href="#续费9-9-月" class="headerlink" title="续费9.9&#x2F;月"></a>续费9.9&#x2F;月</h2><h3 id="请多多转发"><a href="#请多多转发" class="headerlink" title="请多多转发."></a>请多多转发.</h3><h4 id="有博客加入友链吗？"><a href="#有博客加入友链吗？" class="headerlink" title="有博客加入友链吗？"></a>有博客加入友链吗？</h4>]]></content>
+    <content type="html"><![CDATA[<h1 id="送服务器"><a href="#送服务器" class="headerlink" title="送服务器"></a>送服务器</h1><h2 id="土云服务器-香港-一个月-2025-02-16-09-26到期"><a href="#土云服务器-香港-一个月-2025-02-16-09-26到期" class="headerlink" title="土云服务器 香港 一个月 2025-02-16 09:26到期"></a>土云服务器 香港 一个月 2025-02-16 09:26到期</h2><h3 id="可以注册土云https-cloud-soilcloud-cn-aff-UUVNKKDD-然后实名我转移过去或者联系我QQ2907713872-或者-105-x40-x73-x63-102-x63-x2e-x74-111-112-或微信scfccn-建议土云-可以自己改信息、续费"><a href="#可以注册土云https-cloud-soilcloud-cn-aff-UUVNKKDD-然后实名我转移过去或者联系我QQ2907713872-或者-105-x40-x73-x63-102-x63-x2e-x74-111-112-或微信scfccn-建议土云-可以自己改信息、续费" class="headerlink" title="可以注册土云https://cloud.soilcloud.cn/aff/UUVNKKDD ,然后实名我转移过去或者联系我QQ2907713872 或者&#105;&#x40;&#x73;&#x63;&#102;&#x63;&#x2e;&#x74;&#111;&#112;或微信scfccn.建议土云,可以自己改信息、续费"></a>可以注册土云<a href="https://cloud.soilcloud.cn/aff/UUVNKKDD">https://cloud.soilcloud.cn/aff/UUVNKKDD</a> ,然后实名我转移过去或者联系我QQ2907713872 或者<a href="mailto:&#105;&#x40;&#x73;&#x63;&#102;&#x63;&#x2e;&#x74;&#111;&#112;">&#105;&#x40;&#x73;&#x63;&#102;&#x63;&#x2e;&#x74;&#111;&#112;</a>或微信scfccn.建议土云,可以自己改信息、续费</h3><h3 id="活动以抽奖形式进行，活动时间：2025年01月16日-2025年01月20日，1月20日我会公布结果-会在评论区通知并通过预留邮箱等联系，请确保有联系方式可用"><a href="#活动以抽奖形式进行，活动时间：2025年01月16日-2025年01月20日，1月20日我会公布结果-会在评论区通知并通过预留邮箱等联系，请确保有联系方式可用" class="headerlink" title="活动以抽奖形式进行，活动时间：2025年01月16日-2025年01月20日，1月20日我会公布结果,会在评论区通知并通过预留邮箱等联系，请确保有联系方式可用"></a>活动以抽奖形式进行，活动时间：2025年01月16日-2025年01月20日，1月20日我会公布结果,会在评论区通知并通过预留邮箱等联系，请确保有联系方式可用</h3><h2 id="配置如下"><a href="#配置如下" class="headerlink" title="配置如下"></a>配置如下</h2><p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" onerror="this.onerror=null,this.src=&quot;/img/404.jpg&quot;" data-lazy-src="https://imgse.koxiuqiu.cc/imgse/u/2025/02/09/67a83eac83580.png"></p><h2 id="续费9-9-月"><a href="#续费9-9-月" class="headerlink" title="续费9.9&#x2F;月"></a>续费9.9&#x2F;月</h2><h3 id="请多多转发"><a href="#请多多转发" class="headerlink" title="请多多转发."></a>请多多转发.</h3><h4 id="有博客加入友链吗？"><a href="#有博客加入友链吗？" class="headerlink" title="有博客加入友链吗？"></a>有博客加入友链吗？</h4>]]></content>
     
     
       
@@ -218,14 +218,14 @@
     
     
     
-    <category term="福利" scheme="https://blog.scfc.top/tags/%E7%A6%8F%E5%88%A9/"/>
+    <category term="福利" scheme="https://scfc.top/tags/%E7%A6%8F%E5%88%A9/"/>
     
   </entry>
   
   <entry>
     <title>过年的鞋子</title>
-    <link href="https://blog.scfc.top/posts/79c2723a.html"/>
-    <id>https://blog.scfc.top/posts/79c2723a.html</id>
+    <link href="https://scfc.top/posts/79c2723a.html"/>
+    <id>https://scfc.top/posts/79c2723a.html</id>
     <published>2025-01-10T13:30:06.000Z</published>
     <updated>2025-02-10T16:09:18.446Z</updated>
     
@@ -240,14 +240,14 @@
     
     
     
-    <category term="跑鞋" scheme="https://blog.scfc.top/tags/%E8%B7%91%E9%9E%8B/"/>
+    <category term="跑鞋" scheme="https://scfc.top/tags/%E8%B7%91%E9%9E%8B/"/>
     
   </entry>
   
   <entry>
     <title>2024年年终总结(上)</title>
-    <link href="https://blog.scfc.top/posts/cb994cc2.html"/>
-    <id>https://blog.scfc.top/posts/cb994cc2.html</id>
+    <link href="https://scfc.top/posts/cb994cc2.html"/>
+    <id>https://scfc.top/posts/cb994cc2.html</id>
     <published>2024-12-31T16:00:00.000Z</published>
     <updated>2025-02-10T16:08:35.043Z</updated>
     
@@ -262,14 +262,14 @@
     
     
     
-    <category term="总结" scheme="https://blog.scfc.top/tags/%E6%80%BB%E7%BB%93/"/>
+    <category term="总结" scheme="https://scfc.top/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
   <entry>
     <title>无锡是2025春晚分会场之一</title>
-    <link href="https://blog.scfc.top/posts/94202af9.html"/>
-    <id>https://blog.scfc.top/posts/94202af9.html</id>
+    <link href="https://scfc.top/posts/94202af9.html"/>
+    <id>https://scfc.top/posts/94202af9.html</id>
     <published>2024-12-29T06:10:07.000Z</published>
     <updated>2025-02-10T16:09:57.100Z</updated>
     
@@ -284,14 +284,14 @@
     
     
     
-    <category term="春晚" scheme="https://blog.scfc.top/tags/%E6%98%A5%E6%99%9A/"/>
+    <category term="春晚" scheme="https://scfc.top/tags/%E6%98%A5%E6%99%9A/"/>
     
   </entry>
   
   <entry>
     <title>手把手教你搭建源支付</title>
-    <link href="https://blog.scfc.top/posts/d4952d95.html"/>
-    <id>https://blog.scfc.top/posts/d4952d95.html</id>
+    <link href="https://scfc.top/posts/d4952d95.html"/>
+    <id>https://scfc.top/posts/d4952d95.html</id>
     <published>2024-10-22T04:00:00.000Z</published>
     <updated>2025-02-10T16:52:07.715Z</updated>
     
@@ -306,16 +306,16 @@
     
     
     
-    <category term="教程" scheme="https://blog.scfc.top/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://scfc.top/tags/%E6%95%99%E7%A8%8B/"/>
     
-    <category term="源码" scheme="https://blog.scfc.top/tags/%E6%BA%90%E7%A0%81/"/>
+    <category term="源码" scheme="https://scfc.top/tags/%E6%BA%90%E7%A0%81/"/>
     
   </entry>
   
   <entry>
     <title>土云虚拟主机</title>
-    <link href="https://blog.scfc.top/posts/2b91d0c2.html"/>
-    <id>https://blog.scfc.top/posts/2b91d0c2.html</id>
+    <link href="https://scfc.top/posts/2b91d0c2.html"/>
+    <id>https://scfc.top/posts/2b91d0c2.html</id>
     <published>2024-08-23T16:23:08.000Z</published>
     <updated>2025-02-10T16:09:49.095Z</updated>
     
@@ -330,14 +330,14 @@
     
     
     
-    <category term="服务器" scheme="https://blog.scfc.top/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="服务器" scheme="https://scfc.top/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
   </entry>
   
   <entry>
     <title>朋友居然被拷打了？！</title>
-    <link href="https://blog.scfc.top/posts/fda1d3f1.html"/>
-    <id>https://blog.scfc.top/posts/fda1d3f1.html</id>
+    <link href="https://scfc.top/posts/fda1d3f1.html"/>
+    <id>https://scfc.top/posts/fda1d3f1.html</id>
     <published>2024-07-31T06:41:57.000Z</published>
     <updated>2025-02-16T09:14:28.483Z</updated>
     
@@ -356,8 +356,8 @@
   
   <entry>
     <title>安知鱼主题标签 Tag Plugins</title>
-    <link href="https://blog.scfc.top/posts/d50a.html"/>
-    <id>https://blog.scfc.top/posts/d50a.html</id>
+    <link href="https://scfc.top/posts/d50a.html"/>
+    <id>https://scfc.top/posts/d50a.html</id>
     <published>2023-06-01T07:55:44.000Z</published>
     <updated>2025-02-10T16:10:08.299Z</updated>
     
@@ -369,9 +369,9 @@
     
     
     
-    <category term="Tag Plugins" scheme="https://blog.scfc.top/tags/Tag-Plugins/"/>
+    <category term="Tag Plugins" scheme="https://scfc.top/tags/Tag-Plugins/"/>
     
-    <category term="Hexo" scheme="https://blog.scfc.top/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://scfc.top/tags/Hexo/"/>
     
   </entry>
   
