@@ -6,6 +6,8 @@ document.addEventListener("DOMContentLoaded", function () {
     };
 
     const currentDomain = window.location.hostname.toLowerCase();
+    const currentPath = window.location.pathname;
+    const currentSearch = window.location.search; // 获取当前的查询参数
 
     // 检查当前域名是否在 allowList 中
     const isAllowed = config.allowList.some(allowedDomain => {
@@ -18,15 +20,18 @@ document.addEventListener("DOMContentLoaded", function () {
         return false;
     });
 
-    // 如果不在白名单中，也不是主域名，则记录并跳转
+    // 如果不在白名单中，也不是主域名，则记录并跳转到主域名，附带参数
     if (currentDomain !== config.mainDomain && !isAllowed) {
         const reportData = {
-            mirror: currentDomain,
+            mirror: currentDomain + currentPath,
             time: new Date().toISOString(),
-            path: window.location.pathname,
+            path: currentPath,
             ua: navigator.userAgent.slice(0, 500)
         };
         navigator.sendBeacon(config.logApi, JSON.stringify(reportData));
-        window.location.replace(`https://${config.mainDomain}`);
+
+        // 构造跳转 URL，附带来源域名和路径作为查询参数
+        const redirectUrl = `https://${config.mainDomain}/?fromDomain=${encodeURIComponent(currentDomain)}&fromPath=${encodeURIComponent(currentPath + currentSearch)}`;
+        window.location.replace(redirectUrl);
     }
 });
