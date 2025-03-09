@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://scfc.top/posts/scdn.html</loc>
-    
-    <lastmod>2025-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://scfc.top/flink_count.json</loc>
     
     <lastmod>2025-03-09</lastmod>
@@ -21,6 +12,15 @@
   
   <url>
     <loc>https://scfc.top/friend.json</loc>
+    
+    <lastmod>2025-03-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://scfc.top/posts/scdn.html</loc>
     
     <lastmod>2025-03-09</lastmod>
     
@@ -308,6 +308,13 @@
 
   
   <url>
+    <loc>https://scfc.top/tags/CDN/</loc>
+    <lastmod>2025-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://scfc.top/tags/%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2025-03-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -315,7 +322,7 @@
   </url>
   
   <url>
-    <loc>https://scfc.top/tags/CDN/</loc>
+    <loc>https://scfc.top/tags/vlog/</loc>
     <lastmod>2025-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -337,20 +344,6 @@
   
   <url>
     <loc>https://scfc.top/tags/%E5%AE%9D%E5%A1%94/</loc>
-    <lastmod>2025-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://scfc.top/tags/vlog/</loc>
-    <lastmod>2025-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://scfc.top/tags/%E5%85%AC%E5%91%8A/</loc>
     <lastmod>2025-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -385,6 +378,13 @@
   </url>
   
   <url>
+    <loc>https://scfc.top/tags/%E6%98%A5%E6%99%9A/</loc>
+    <lastmod>2025-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://scfc.top/tags/%E7%88%B1%E5%8F%91%E7%94%B5/</loc>
     <lastmod>2025-03-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -392,7 +392,7 @@
   </url>
   
   <url>
-    <loc>https://scfc.top/tags/%E6%98%A5%E6%99%9A/</loc>
+    <loc>https://scfc.top/tags/%E5%85%AC%E5%91%8A/</loc>
     <lastmod>2025-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
