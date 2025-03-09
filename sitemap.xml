@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://scfc.top/posts/scdn.html</loc>
+    
+    <lastmod>2025-03-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://scfc.top/flink_count.json</loc>
     
     <lastmod>2025-03-09</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://scfc.top/friend.json</loc>
-    
-    <lastmod>2025-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://scfc.top/posts/scdn.html</loc>
     
     <lastmod>2025-03-09</lastmod>
     
@@ -350,6 +350,13 @@
   </url>
   
   <url>
+    <loc>https://scfc.top/tags/%E5%85%AC%E5%91%8A/</loc>
+    <lastmod>2025-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://scfc.top/tags/Tag-Plugins/</loc>
     <lastmod>2025-03-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -358,13 +365,6 @@
   
   <url>
     <loc>https://scfc.top/tags/Hexo/</loc>
-    <lastmod>2025-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://scfc.top/tags/%E5%85%AC%E5%91%8A/</loc>
     <lastmod>2025-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -385,14 +385,14 @@
   </url>
   
   <url>
-    <loc>https://scfc.top/tags/%E6%98%A5%E6%99%9A/</loc>
+    <loc>https://scfc.top/tags/%E7%88%B1%E5%8F%91%E7%94%B5/</loc>
     <lastmod>2025-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://scfc.top/tags/%E7%88%B1%E5%8F%91%E7%94%B5/</loc>
+    <loc>https://scfc.top/tags/%E6%98%A5%E6%99%9A/</loc>
     <lastmod>2025-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
