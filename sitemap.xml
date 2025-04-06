@@ -288,13 +288,6 @@
   </url>
   
   <url>
-    <loc>https://scfc.top/tags/CDN/</loc>
-    <lastmod>2025-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://scfc.top/tags/%E4%BA%91%E9%A9%B0%E4%BA%92%E8%81%94/</loc>
     <lastmod>2025-04-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -316,7 +309,21 @@
   </url>
   
   <url>
+    <loc>https://scfc.top/tags/CDN/</loc>
+    <lastmod>2025-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://scfc.top/tags/vlog/</loc>
+    <lastmod>2025-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://scfc.top/tags/%E5%85%AC%E5%91%8A/</loc>
     <lastmod>2025-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -331,13 +338,6 @@
   
   <url>
     <loc>https://scfc.top/tags/Hexo/</loc>
-    <lastmod>2025-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://scfc.top/tags/%E5%85%AC%E5%91%8A/</loc>
     <lastmod>2025-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
