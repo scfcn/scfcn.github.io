@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const config = {
         mainDomain: "scfc.top",
         logApi: "https://api.scfc.top/report.php", // PHP 接口地址
-        allowList: ["localhost", "cname.scfc.top"] // 添加了通配符白名单
+        allowList: ["localhost", "*.scfc.top"] // 添加了通配符白名单
     };
 
     const currentDomain = window.location.hostname.toLowerCase();
